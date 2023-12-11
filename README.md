@@ -1,0 +1,1 @@
+# A chatbot GUI for the ChatGPT API.
